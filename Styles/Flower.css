@@ -57,7 +57,6 @@ a{
     background: lightgreen;
  }
  .img-box-container{
-    padding: 50px;
     border-radius: 10px;
     background-color: white;
     text-align: center;
@@ -206,6 +205,15 @@ footer {
 
 .social-links {
     text-align: center;
+    background-color: aliceblue;
+    color: black;
+    height: 100%;
+    padding: 50px;
+    background-image: url('../Flower-Images/pngwing\ 10.png');
+
+}
+.social-links img{
+    box-shadow: 1px 1px  2px 1px gray;
 }
 
 .contact input[type="text"],

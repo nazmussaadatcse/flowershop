@@ -135,8 +135,6 @@ nav a {
     display: flex;
     align-items: center;
     background-color: lightpink;
-    
-    
 }
 
 .banner .pp {
@@ -201,6 +199,9 @@ footer {
 .footer-column {
     width: 100%;
     text-align: center;
+}
+.banner2{
+    width: 100% !important;
 }
 
 .social-links {

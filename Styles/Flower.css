@@ -64,7 +64,9 @@ a{
  }
 
  .subscribe-form{
-    background-image: url('../Flower-Images/Rectangle\ 9.png');
+    /* background-image: url('../Flower-Images/Rectangle\ 9.png'); */
+    background-image: url('../Flower-Images/pngwing\ 10.png');
+
     height: 300px;
     width: 100%;
     padding-top: 50px;
